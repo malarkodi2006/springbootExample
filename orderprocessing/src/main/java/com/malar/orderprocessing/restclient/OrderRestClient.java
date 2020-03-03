@@ -6,7 +6,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.client.RestTemplate;
 
 import com.malar.orderprocessing.entity.Order;
-
+// code checkin with git
 public class OrderRestClient {
 	
 	 static final String URL_ORDERSGET = "http://localhost:8080/inventory.com/api/orders";
