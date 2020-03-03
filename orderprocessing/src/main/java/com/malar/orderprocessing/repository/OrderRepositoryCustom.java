@@ -1,6 +1,7 @@
 package com.malar.orderprocessing.repository;
 
 import java.util.List;
+//c ustom repository based on Spring data
 
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
